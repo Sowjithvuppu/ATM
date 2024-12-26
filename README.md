@@ -1,4 +1,4 @@
-# ATM
+# ATM [console based]
 bank = {
     101 : ["Tharun","1234",10000,[24,8,1995]],
     102 : ["Karthik",None,20000,[23,9,2005]] ,
